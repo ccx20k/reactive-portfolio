@@ -5,6 +5,18 @@
     background-color: #666;
 }
 
+/*navbar*/
+
+.navbar {
+    height: 125px;
+}
+
+.navbar-brand {
+    margin-right: 65%;
+    margin-left: 15px;
+}
+
+
 /*footer*/ 
 
 .footer {
