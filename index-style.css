@@ -1,0 +1,13 @@
+/*container*/
+
+.container-fluid {
+    height: 1500px;
+    background-color: #666;
+}
+
+/*footer*/ 
+
+.footer {
+    height: 125px;
+    padding-top: 55px;
+}
