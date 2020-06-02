@@ -1,12 +1,10 @@
 /*container*/
-
 .container-fluid {
     height: 1500px;
     background-color: #666;
 }
 
 /*navbar*/
-
 .navbar {
     height: 125px;
 }
@@ -16,9 +14,14 @@
     margin-left: 15px;
 }
 
+/*content card*/
+.card {
+    margin-top: 35px;
+    padding: 25px;
+}
+
 
 /*footer*/ 
-
 .footer {
     height: 125px;
     padding-top: 55px;
