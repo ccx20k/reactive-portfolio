@@ -17,6 +17,10 @@
     justify-content: space-around;
     width: 100%;
 }
+.img-thumbnail {
+    max-width: 200px;
+    max-height: 200px;
+}
 
 @media (min-width: 768px) {
     .navbar-brand-container {
@@ -29,6 +33,9 @@
     .navbar-nav {
         margin-right: 5%;
         justify-content: flex-end;
+    }
+    h3 {
+        font-size: 1.05rem;
     }
     
 }
