@@ -1,0 +1,46 @@
+.card-image {
+    display: block;
+    width: 90%;
+    width: auto;
+    height: auto;
+} 
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+.navbar-brand-container {
+    width: 100%;
+    height: 100px;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 20px;
+}
+.navbar-nav {
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .navbar-brand-container {
+        width: 200px;
+        margin-left: 5%;
+    }
+    .navbar-brand {
+        padding-top: 15px;
+    }
+    .navbar-nav {
+        margin-right: 5%;
+        justify-content: flex-end;
+    }
+    h3 {
+        font-size: 1.05rem;
+    }
+    .card {
+        margin-top: 5%;
+    }
+    
+}
