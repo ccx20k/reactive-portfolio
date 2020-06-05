@@ -21,6 +21,9 @@
     max-width: 200px;
     max-height: 200px;
 }
+.btn {
+    margin-bottom: 20px;
+}
 
 
 @media (min-width: 768px) {
