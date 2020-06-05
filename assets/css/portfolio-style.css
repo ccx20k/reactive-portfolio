@@ -5,6 +5,13 @@
     height: 60px;
     line-height: 60px;
 }
+.footer2 {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    line-height: 60px;
+}
 .navbar-brand-container {
     width: 100%;
     height: 100px;
